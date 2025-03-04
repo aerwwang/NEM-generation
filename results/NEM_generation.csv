@@ -1,4 +1,4 @@
-FY,Total_MWh_Dispatched,Total_Revenue,VWAP,State,Fuel_Type,% of total MWh dispatched in FY,% of total revenue in FY
+FY,Total_MWh_Dispatched,Total_Revenue,VWAP,State,Fuel_Type,% of total MWh dispatched,% of total revenue
 2020,0.0,0.0,,NSW,Battery,0.0,0.0
 2021,0.0,0.0,,NSW,Battery,0.0,0.0
 2022,13780.540833333333,5091472.798675,369.4682857699888,NSW,Battery,0.007433112175232103,0.01976977381193243
